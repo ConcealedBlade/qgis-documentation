@@ -24,7 +24,18 @@
       - 突出显示新增物体的图像
       - 相应的变化说明文字
 
-![检测结果](../change-detection_result.png)
-![结果展示](../change-detection_caption.png)
+<!-- tabs:start -->
+
+#### **图像结果**
+
+![图像结果](../change-detection_result.png)
+
+#### **文字结果**
+
+![文字结果](../change-detection_caption.png)
+
+<!-- tabs:end -->
+
+
 
 !> 请确保输入的两幅遥感图像覆盖相同的地理区域。

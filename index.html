@@ -61,14 +61,21 @@
       pagination: {
         previousText: {
           '/': 'PREVIOUS',
-          '/zh-cn/': '上一章节'
+          '/zh-cn/': '上一章节',
         },
         nextText: {
           '/': 'NEXT',
-          '/zh-cn/': '下一章节'
+          '/zh-cn/': '下一章节',
         },
         crossChapter: true,
         crossChapterText: true,
+      },
+      tabs: {
+        persist: true, // default
+        sync: true, // default
+        theme: 'Material', // default
+        tabComments: true, // default
+        tabHeadings: true, // default
       },
       repo: 'https://github.com/study-233/qgis_dev/tree/master',
       relativePath: true,
@@ -83,6 +90,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/front-matter.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
