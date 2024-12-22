@@ -1,7 +1,8 @@
-# Segmentation
+# semantic segmentation
 
 ## Overview
-The main interface of the program is located under the **Segmentation** tab. Its primary function is to perform feature extraction using remote sensing images, utilizing the [**AerialFormer**](https://github.com/UARK-AICV/AerialFormer) model for image prediction and processing.
+
+> The main interface of the program is located under the **Segmentation** tab. Its primary function is to perform feature extraction (semantic segmentation) using remote sensing images.
 
 ![Main Interface](segmentation.png)
 

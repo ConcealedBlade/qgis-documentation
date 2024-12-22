@@ -14,7 +14,7 @@
 - Change Detection
 - Object Detection
 - Super-Resolution Reconstruction
-- Map Layers Piling
+- Layer Overlay
 
 ## License
 

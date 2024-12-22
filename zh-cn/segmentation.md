@@ -1,7 +1,8 @@
-# 地物提取
+# 语义分割
 
 ## 概述
-程序主界面位于 **Segmentation** 标签页，主要功能是利用遥感图像进行地物提取，采用 [**AerialFormer**](https://github.com/UARK-AICV/AerialFormer) 模型进行图像预测和处理。
+
+> 程序主界面位于 **Segmentation** 标签页，主要功能是利用遥感图像进行语义分割（地物提取）。
 
 ![程序主界面](../segmentation.png)
 
