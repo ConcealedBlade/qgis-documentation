@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+
+  <!-- Replace with your own title and description. -->
+  <title>GIS Desktop System Documentation</title>
+  <meta name="description" content="GIS Desktop System Documentation">
+
+  <!-- Default Theme (see https://docsify.js.org/#/themes) -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <script>
+    // Set html "lang" attribute based on URL
+    (function () {
+      const lang = location.hash.match(/#\/(zh-cn)\//);
+
+      if (lang) {
+        document.documentElement.setAttribute('lang', lang[1]);
+      }
+    })();
+  </script>
+
+</head>
+
+<body>
+  <div id="app">Loading...</div>
+
+
+  <script>
+    window.$docsify = {
+      name: 'GIS Desktop System',
+      auto2top: true,
+      loadSidebar: true,
+      subMaxLevel: 2,
+      loadNavbar: true,
+      search: {
+        noData: {
+          '/zh-cn/': '没有结果!',
+          '/': 'No results!',
+        },
+        paths: 'auto',
+        placeholder: {
+          '/zh-cn/': '搜索',
+          '/': 'Search',
+        },
+        pathNamespaces: ['/zh-cn'],
+      },
+      skipLink: {
+        '/zh-cn/': '跳到主要内容',
+      },
+      alias: {
+        '/zh-cn/(.*)': '/zh-cn/$1',  // 中文文档路径
+      },
+      nameLink: {
+        '/zh-cn/': '/zh-cn/',
+        '/': '/',
+      },
+      pagination: {
+        previousText: {
+          '/': 'PREVIOUS',
+          '/zh-cn/': '上一章节'
+        },
+        nextText: {
+          '/': 'NEXT',
+          '/zh-cn/': '下一章节'
+        },
+        crossChapter: true,
+        crossChapterText: true,
+      },
+      repo: 'https://github.com/study-233/qgis_dev/tree/master',
+      relativePath: true,
+    }
+
+  </script>
+
+  <!-- Required -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+
+  <!-- Recommended -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/front-matter.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-nginx.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
+
+</body>
+
+</html>
