@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](/logo.svg)
+<img src="/logo.svg">
 
 ## qgis-dev  |  GIS Desktop System based on QGIS
 

@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](../logo.svg)
+<img src="../logo.svg">
 
 ## qgis-dev  |  基于 QGIS 的 GIS 桌面系统
 
