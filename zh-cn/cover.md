@@ -1,8 +1,8 @@
 <!-- cover.md -->
 
-<img src="../logo.svg">
+![logo](../logo.svg)
 
-## qgis-dev  |  基于 QGIS 的 GIS 桌面系统
+# qgis-dev  |  基于 QGIS 的 GIS 桌面系统
 
 - 专用于高分辨率遥感影像分析
 
