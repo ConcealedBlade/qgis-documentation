@@ -1,10 +1,10 @@
-# semantic segmentation
+# Semantic Segmentation
 
 ## Overview
 
 > The main interface of the program is located under the **Segmentation** tab. Its primary function is to perform feature extraction (semantic segmentation) using remote sensing images.
 
-![Main Interface](segmentation.png)
+![Interface](/segmentation.png)
 
 ## Operation Steps
 
@@ -16,14 +16,14 @@
    - The system will use the [**AerialFormer**](https://github.com/UARK-AICV/AerialFormer) model to predict and process the input image.
    - Different features in the image will be marked with different colors, generating semantic segmentation results.
 
-![Processing Result](segmentation_result.png)
+![Processing Result](/segmentation_result.png)
 
-?> **Technical Note**: **AerialFormer** is a multi-resolution Transformer model designed specifically for aerial remote sensing image segmentation tasks. It efficiently extracts feature information from images.
+?> **Technical Note**: [**AerialFormer**](https://github.com/UARK-AICV/AerialFormer) is a multi-resolution Transformer model designed specifically for aerial remote sensing image segmentation tasks. It efficiently extracts feature information from images.
 
 3. **Layer Overlay**
    - In the **Layer Tree** panel on the right side of the interface, you can adjust the pixel values of the grayscale mask layer (range: 0-255) to optimize the visual effect of the image and highlight target objects.
    - The output image can overlay other layers, such as the original image or the predicted label map, for easier comparison and analysis.
 
-![Grayscale Mask](mask.png)
+![Grayscale Mask](/mask.png)
 
 !> The layer overlay function is also available on other pages and will not be repeated here.

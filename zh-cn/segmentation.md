@@ -4,7 +4,7 @@
 
 > 程序主界面位于 **Segmentation** 标签页，主要功能是利用遥感图像进行语义分割（地物提取）。
 
-![程序主界面](../segmentation.png)
+![界面](../segmentation.png)
 
 ## 操作步骤
 
@@ -18,7 +18,7 @@
 
 ![运行效果](../segmentation_result.png)
 
-?> **技术说明**：**AerialFormer** 是一种多分辨率 Transformer 模型，专为航空遥感图像分割任务设计，能够高效提取图像中的地物信息。
+?> **技术说明**：[**AerialFormer**](https://github.com/UARK-AICV/AerialFormer) 是一种多分辨率 Transformer 模型，专为航空遥感图像分割任务设计，能够高效提取图像中的地物信息。
 
 3. **图层叠加**
    - 界面右侧的 **Layer Tree** 栏，可以调节灰度遮罩图层的像素值（范围：0-255），以优化图像的视觉效果并突出目标物体。
