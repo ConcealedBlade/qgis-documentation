@@ -4,9 +4,11 @@
 
 # qgis-dev  |  GIS Desktop System based on QGIS
 
-- Built for high-resolution remote sensing image analysis
+> Built for high-resolution remote sensing image analysis
 
 [GitHub](https://github.com/study-233/qgis_dev/tree/master)
-[Documentation](/#id=app)
+[Documentation](README)
 
-![color](#e4fff7)
+<!-- background color -->
+
+![color](linear-gradient(to left bottom, hsl(190, 100%, 85%) 0%,hsl(68, 100%, 85%) 100%))
