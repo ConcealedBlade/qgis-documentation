@@ -51,9 +51,6 @@
       skipLink: {
         '/zh-cn/': '跳到主要内容',
       },
-      alias: {
-        '/zh-cn/(.*)': '/zh-cn/$1',  // 中文文档路径
-      },
       nameLink: {
         '/zh-cn/': '#/zh-cn/',
         '/': '#/',
@@ -69,6 +66,11 @@
         },
         crossChapter: true,
         crossChapterText: true,
+        coverpage: true,
+        coverpage: {
+          '/': 'cover.md',
+          '/zh-cn/': 'cover.md',
+        },
       },
       tabs: {
         persist: true, // default

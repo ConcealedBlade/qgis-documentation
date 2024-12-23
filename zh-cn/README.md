@@ -1,6 +1,6 @@
 # 介绍
 
-> 高分遥感图像分析GIS桌面系统.
+> 高分辨率遥感图像分析GIS桌面系统.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/study-233/qgis_dev)
 ![Language](https://img.shields.io/badge/Language-C++-royalblue)
