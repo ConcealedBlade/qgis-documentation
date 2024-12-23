@@ -9,4 +9,4 @@
 [GitHub](https://github.com/study-233/qgis_dev/tree/master)
 [Documentation](/#id=app)
 
-![color](#e4fff7)
+![color](linear-gradient(to left bottom, hsl(190, 100%, 85%) 0%,hsl(68, 100%, 85%) 100%))
