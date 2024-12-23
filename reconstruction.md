@@ -1,7 +1,7 @@
 # Super Resolution Reconstruction
 
 ## Overview
-> The super resolution reconstruction functionality is located in the **Reconstruction** tab, which performs image restoration on low-resolution images based on physical imaging principles to enhance image resolution.
+> The super resolution reconstruction function is located in the **Reconstruction** tab, which performs image restoration on low-resolution images based on physical imaging principles to enhance image resolution.
 
 ![Interface](/reconstruction.png)
 

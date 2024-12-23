@@ -2,7 +2,7 @@
 
 ## Overview
 
-The system's change detection functionality is located in the **Change Detection** tab, enabling detection and analysis of changes in remote sensing imagery.
+> The change detection function is located in the **Change Detection** tab, enabling detection and analysis of changes in remote sensing imagery.
 
 ![Interface](/change-detection.png)
 

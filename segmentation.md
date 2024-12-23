@@ -2,7 +2,7 @@
 
 ## Overview
 
-> The main interface of the program is located under the **Segmentation** tab. Its primary function is to perform feature extraction (semantic segmentation) using remote sensing images.
+> The main interface of the program is located under the **Segmentation** tab. Its primary function is to perform semantic segmentation (feature extraction) using remote sensing images.
 
 ![Interface](/segmentation.png)
 
