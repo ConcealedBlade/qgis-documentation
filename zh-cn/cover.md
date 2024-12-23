@@ -1,4 +1,4 @@
-<!-- _coverpage.md -->
+<!-- cover.md -->
 
 <img src="../logo.svg">
 
