@@ -2,6 +2,7 @@
 
 > 高分遥感图像分析GIS桌面系统.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/study-233/qgis_dev)
 ![Language](https://img.shields.io/badge/Language-C++-royalblue)
 ![QT](https://img.shields.io/badge/QT-%3E%3D5.15.2-%2341CD52)
 ![Python](https://img.shields.io/badge/Python-%3E%3D3.9-blue)
