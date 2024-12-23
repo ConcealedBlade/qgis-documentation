@@ -7,4 +7,4 @@
 > 专用于高分辨率遥感影像分析
 
 [GitHub](https://github.com/study-233/qgis_dev/tree/master)
-[文档](#/?id=介绍)
+[文档](#介绍)
