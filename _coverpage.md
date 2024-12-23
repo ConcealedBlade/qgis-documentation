@@ -6,5 +6,5 @@
 
 > Built for high-resolution remote sensing image analysis
 
-- [GitHub](https://github.com/study-233/qgis_dev/tree/master)
-- [Documentation](#/?id=Introduction)
+[GitHub](https://github.com/study-233/qgis_dev/tree/master)
+[Documentation](#/?id=Introduction)>
