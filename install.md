@@ -1,18 +1,10 @@
 # Install
 
-Not completed yet.
+## Options
 
-## Dependencies
+- **Developer Installation**: Download the source code from the [GitHub repository](https://github.com/study-233/qgis_dev/tree/master) and compile it yourself.
 
-1. **C++ Development Environment**
-   - CMake 3.16+
-
-2. **Qt Framework**
-   - Qt 5.15.2 or higher
-   - Qt Creator
-
-3. **Python Environment**
-   - Python 3.9 or higher
-   - numpy
-
-4. **QGIS**
+- **Quick Installation**: Download the pre-compiled version from [Baidu Cloud](https://pan.baidu.com/s/1wpQ8kBkadZHhZ5pK5WSIdQ?pwd=y2x5).
+  1. Extract the compressed file to any directory of your choice
+  2. Navigate to the `\qgisexe\` folder in the extracted directory
+  3. Double-click `Qgis_For_Desktop.exe` to launch the application
