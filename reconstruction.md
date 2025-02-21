@@ -14,5 +14,3 @@
 2. **Image Reconstruction**
    - The system processes the input image using super resolution reconstruction algorithms
    - Upon completion, the high-resolution reconstruction result will be displayed
-
-![Processing Result](/reconstruction_result.png)

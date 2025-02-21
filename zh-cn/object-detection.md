@@ -16,7 +16,5 @@
    - 系统将使用 [STD ViTs](https://github.com/yuhongtian17/Spatial-Transform-Decoupling) 模型对输入图像进行自动处理
    - 处理完成后将显示检测结果
 
-![运行效果](../object-detection_result.png)
-
 ?> **技术说明**：
 [STD ViTs](https://github.com/yuhongtian17/Spatial-Transform-Decoupling) 是一种基于 Vision Transformers (ViTs) ，利用空间变换解耦（Spatial Transform Decoupling, STD）方法的物体检测模型，在旋转敏感场景表现优异。

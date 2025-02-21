@@ -16,8 +16,6 @@
    - The system will use the [**AerialFormer**](https://github.com/UARK-AICV/AerialFormer) model to predict and process the input image.
    - Different features in the image will be marked with different colors, generating semantic segmentation results.
 
-![Processing Result](/segmentation_result.png)
-
 ?> **Technical Note**: [**AerialFormer**](https://github.com/UARK-AICV/AerialFormer) is a multi-resolution Transformer model designed specifically for aerial remote sensing image segmentation tasks. It efficiently extracts feature information from images.
 
 3. **Layer Overlay**

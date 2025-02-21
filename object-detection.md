@@ -16,7 +16,5 @@
    - The system will use [STD ViTs](https://github.com/yuhongtian17/Spatial-Transform-Decoupling) model for automatic processing
    - Detection results will be displayed upon completion
 
-![Processing Result](/object-detection_result.png)
-
 ?> **Technical Note**:
 [STD ViTs](https://github.com/yuhongtian17/Spatial-Transform-Decoupling) is an object detection model based on Vision Transformers (ViTs) that utilizes Spatial Transform Decoupling (STD) method, showing excellent performance in rotation-sensitive scenarios.

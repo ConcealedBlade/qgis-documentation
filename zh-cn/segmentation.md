@@ -16,8 +16,6 @@
    - 系统将使用 [**AerialFormer**](https://github.com/UARK-AICV/AerialFormer) 模型对输入图像进行预测处理。
    - 不同地物会以不同的颜色进行标注，生成语义分割结果。
 
-![运行效果](../segmentation_result.png)
-
 ?> **技术说明**：[**AerialFormer**](https://github.com/UARK-AICV/AerialFormer) 是一种多分辨率 Transformer 模型，专为航空遥感图像分割任务设计，能够高效提取图像中的地物信息。
 
 3. **图层叠加**
